@@ -28,7 +28,6 @@ Mailbox: 420443292@qq.com
 <img src="https://i.loli.net/2018/11/11/5be8437bb61ef.png"/>
 <img src="https://i.loli.net/2018/11/11/5be8437bf40c5.png"/>
 <img src="https://i.loli.net/2018/11/11/5be8437c01891.png"/>
-<img src="https://i.loli.net/2018/11/11/5be843817c69e.png"/>
 
 
 
